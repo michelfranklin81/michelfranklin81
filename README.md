@@ -10,7 +10,7 @@
     name: "Michel",
     surname: "Franklin",
     skils: ["Curious", "Worker", "Friendly"],
-    hardskils: ["Javascript", "Html", "Css", "Typescript (loading...)", "React (loading...)"]
+    hardskils: ["Javascript", "Html", "Css", "C#(loading...)"]
     
   }
 ```
